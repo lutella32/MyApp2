@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="input_temperature">Input Temperature</string>
+    <string name="next">Next</string>
+    <string name="input_text_value">Input Text Value</string>
+    <string name="input_number_enter">Input number enter</string>
+    <string name="fahrenheit_f">Fahrenheit(°F)</string>
+    <string name="celsius_c">Celsius(°C)</string>
+    <string name="texte">texte</string>
+    <string name="result">Result</string>
+    <string name="results"><![CDATA[<Result>]]></string>
+</resources>

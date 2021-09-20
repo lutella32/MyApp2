@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="input_temperature">Température Entrée</string>
+    <string name="next">Suivant</string>
+    <string name="input_text_value">Valeur entrée</string>
+    <string name="input_number_enter">Nombre en entrée</string>
+    <string name="fahrenheit_f">Fahrenheit(F)</string>
+    <string name="celsius_c">Celsius(C)</string>
+    <string name="texte">texte</string>
+    <string name="result">Résultat</string>
+    <string name="results">Résultat</string>
+</resources>
