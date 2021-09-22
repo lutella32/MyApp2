@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void calcultemp(){
         //final Switch switch1 = (Switch) findViewById(R.id.switch1);
-        Log.d("salsultemp","un");
+        //Log.d("salsultemp","un");
         textinput2 = (EditText) findViewById(R.id.editTextNumber);
         String temp = getString(R.string.input_number_enter);
         Spinner spinner = (Spinner) findViewById(R.id.spinner);
